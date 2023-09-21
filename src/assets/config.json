@@ -1,0 +1,12 @@
+{
+    "presence": {
+        "name": "over eiland",
+        "type": "WATCHING",
+        "status": "online"
+    },
+    "embed": {
+        "footer": "Made By siebe_b",
+        "color": "#303136",
+        "defaultIcon": "https://cdn.discordapp.com/embed/avatars/1.png"
+    }
+}
